@@ -1,0 +1,57 @@
+C:\Users\Админ\Desktop\task>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Админ\Desktop\task>git branch
+  branch1
+* main
+
+C:\Users\Админ\Desktop\task>git log
+commit f025613fb0b08cf7d19b13d7b871c74f6998d8ed (HEAD -> main, origin/main)
+Author: FranDiana <107578208+FranDiana@users.noreply.github.com>
+Date:   Sat Oct 14 10:30:41 2023 +0300
+
+    Create file
+
+commit 5d02028cdb7d9f056e4f85f69eb7d15fd97d0ed6
+Merge: 4657882 6bd8e8c
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:27:52 2023 +0300
+
+    Merge branch 'branch1'
+
+commit 4657882368da572650db9e640ef8c27e286eab32
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:25:15 2023 +0300
+
+    added header
+
+commit 6bd8e8cc42e5631dfb62942d3e3a82b53a29c4a5 (origin/branch1, branch1)
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:14:03 2023 +0300
+
+    added main and footer
+
+commit 5e945a52799b5d1376a0e0ca0da78b51cab55e70
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:12:39 2023 +0300
+
+    added "header"
+
+commit d0caddb2e69ed2c056d06d981ee2859d5270f315
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:11:41 2023 +0300
+
+    added some code
+
+commit 600b06407e888f87b93d302565fc924a7e3613ae
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:08:29 2023 +0300
+
+    add file index and code
+
+commit d570ed31d012a8485c44bb3823c14d5fc6dffd3f
+Author: FranDiana <din3711din@gmail.com>
+Date:   Sat Oct 14 10:06:15 2023 +0300
